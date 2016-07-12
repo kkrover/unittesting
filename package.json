@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "DB=unittesting-db LEVEL=silly PORT=3333 nodemon dst/server.js"
   },
-  "author": "Chyld Medford",
+  "author": "Steve & John",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.10.1",
